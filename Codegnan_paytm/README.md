@@ -21,5 +21,3 @@ The Paytm Website Clone project aims to replicate the main page of the popular d
 ## Usage
 
 To view the main page of the Paytm website clone, simply open the `index.html` file in your web browser.
-## Socials Links
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahith-paul)
